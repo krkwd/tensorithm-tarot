@@ -14,10 +14,17 @@ h1 {
 }
 
 .card-container img {
-  max-width: 35%;
-  width: 80%;
+  max-width: 100%; /* Updated */
+  width: 100%; /* Updated */
   height: auto;
   cursor: pointer;
+}
+
+@media (min-width: 768px) { /* Added */
+  .card-container img {
+    max-width: 75%;
+    width: 75%;
+  }
 }
 
 .hidden {
