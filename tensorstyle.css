@@ -14,61 +14,41 @@ h1 {
 }
 
 .card-container img {
-  max-width: 100%; /* Updated */
-  width: 100%; /* Updated */
-.card-container .card {
-  display: inline-block;
-  max-width: 100%;
-  width: 100%;
-  margin-bottom: 20px;
-}
-
-.card-container .card-image {
   max-width: 100%;
   width: 100%;
   height: auto;
   cursor: pointer;
 }
 
-@media (min-width: 768px) { /* Added */
+@media (min-width: 768px) {
   .card-container img {
     max-width: 75%;
     width: 75%;
   }
-.card-container .card-info {
-  max-width: 100%;
-  width: 100%;
-  text-align: center;
-  margin-top: 10px;
 }
 
 .hidden {
-@@ -53,15 +60,19 @@ h1 {
-  cursor: pointer;
+  display: none;
 }
 
-.card-image {
-  width: 100%;
-  height: auto;
-  cursor: pointer;
+.controls {
+  text-align: center;
+  margin-top: 20px;
 }
 
-@media screen and (min-width: 768px) {
-  .card-image {
-    max-width: 35%;
-    width: auto;
-  .card-container .card {
-    max-width: 75%;
-    width: 75%;
-  }
+.controls label {
+  font-weight: bold;
+}
 
-  .card-container .card-image {
-    max-width: 100%;
-    width: 100%;
-  }
+.controls select {
+  margin: 0 10px;
+}
 
-  .card-container .card-info {
-    max-width: 100%;
-    width: 100%;
-  }
+.controls button {
+  padding: 10px 20px;
+  background-color: #337ab7;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
 }
