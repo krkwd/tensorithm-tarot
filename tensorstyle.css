@@ -20,10 +20,12 @@ h1 {
   cursor: pointer;
 }
 
-@media screen and (min-width: 768px) {
   .card-image {
-    max-width: 35%;
+    max-width: 20%;
     width: auto;
+    
+@media screen and (min-width: 768px) {
+
   .card-container .card {
     max-width: 75%;
     width: 75%;
