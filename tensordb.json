@@ -1,0 +1,143 @@
+
+[
+  {
+    "cardname": "THE ALCHEMIST",
+    "carddesc": "TRANSFORMATION, EXPERIMENTATION, THE POWER OF INTENTION",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/01%20The%20Alchemist.png"
+  },
+  
+  {
+    "cardname": "THE ORACLE",
+    "carddesc": "INTUITION, DIVINATION, AND THE POWER OF PROPHECY. SEEING BEYOND THE SURFACE OF THINGS, AND UNDERSTANDING THE DEEPER MYSTERIES OF LIFE",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/02%20The%20Oracle.png"
+  },
+  
+  {
+    "cardname": "THE WANDERER",
+    "carddesc": "FINDING THE COURAGE TO EXPLORE THE UNKOWN, AND TO SEEK OUT NEW EXPERIENCES AND CHALLENGES",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/03%20The%20Wanderer.png"
+  },
+  
+  {
+    "cardname": "THE WEAVER",
+    "carddesc": "CREATIVITY, CRAFTSMANSHIP, AND THE POWER OF CREATION. SHAPING AND TRANSFORMING THE WORLD THROUGH SKILLFUL AND INTENTIONAL ACTION",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/04%20The%20Weaver.png"
+  },
+  
+  {
+    "cardname": "THE GUARDIAN",
+    "carddesc": "STANDING STRONG IN THE FACE OF DANGER, AND DEFENDING WHAT IS PRECIOUS AND SACRED",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/05%20The%20Guardian.png"
+  },
+  
+  {
+    "cardname": "THE MAGISTRATE",
+    "carddesc": "ENFORCING ORDER, AND MAINTAINING BALANCE AND FAIRNESS IN SOCIETY",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/06%20The%20Magistrate.png"
+  },
+
+  {
+    "cardname": "THE HARVESTER",
+    "carddesc": "MANIFESTING ABUNDANCE, AND ENJOYING THE FRUITS OF ONE’S LABOR",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/07%20The%20Harvester.png"
+  },
+  
+  {
+    "cardname": "THE LIBERATOR",
+    "carddesc": "BREAKING FREE FROM BONDAGE, AND LIVING LIFE ON ONE’S OWN TERMS",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/08%20The%20Liberator.png"
+  },
+  
+  {
+    "cardname": "THE SEEKER",
+    "carddesc": "EXPANDING ONE’S HORIZONS, AND DISCOVERING NEW AND EXCITING POSSIBILITIES",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/09%20The%20Seeker.png"
+  },
+  
+  {
+    "cardname": "THE VISIONARY",
+    "carddesc": "SEEING BEYOND THE MUNDANE TO ENVISION A MORE BEAUTIFUL AND INSPIRING WORLD",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/10%20The%20Visionary.png"
+  },
+  
+  {
+    "cardname": "THE ASCENDANT",
+    "carddesc": "EVOLVING AND TRANSFORMING ONESELF INTO SOMETHING GREATER",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/11%20The%20Ascendant.png"
+  },
+  
+  {
+    "cardname": "THE CHANGELING",
+    "carddesc": "ADAPTING TO CHANGING CIRCUMSTANCES, AND TRANSFORMING ONESELF AS NECESSARY TO THRIVE IN DIFFERENT ENVIRONMENTS",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/12%20The%20Changeling.png"
+  },
+  
+  {
+    "cardname": "THE PHOENIX",
+    "carddesc": "RISING AGAIN AFTER DEFEAT OR HARDSHIP, AND FINDING NEW LIFE AND PURPOSE",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/13%20The%20Phoenix.png"
+  },
+
+  {
+    "cardname": "THE ARCHIVIST",
+    "carddesc": "PRESERVING KNOWLEDGE AND WISDOM OF THE PAST, AND PASSING IT DOWN TO FUTURE GENERATIONS ",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/14%20The%20Archivist.png"
+  },
+
+  {
+    "cardname": "THE CATALYST",
+    "carddesc": "BRINGING ABOUT CHANGE AND TRANSFORMATION THROUGH ONE’S ACTIONS OR PRESENCE",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/15%20The%20Catalyst.png"
+  },
+  
+  {
+    "cardname": "THE SENTINEL",
+    "carddesc": "FEELING GUARDED OR DEFENSIVE, OR TAKING MEASURES TO PROTECT ONESELF AND LOVED ONES. A REMINDER TO STAY FOCUSED AND BE VIGILANT, TRUSTING INTUITION TO GUIDE ONE DOWN THE RIGHT PATH",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/16%20The%20Sentinel.png"
+  },
+  
+  {
+    "cardname": "THE NEXUS",
+    "carddesc": "CONVERGENCE OF ALL PATHS, AND THE MEETING OF ALL POSSIBILITIES. THE POTENTIAL FOR NEW BEGINNINGS AND INFINITE EXPANSION",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/17%20The%20Nexus.png"
+  },
+  
+  {
+    "cardname": "ARCHITECT",
+    "carddesc": "THE POWER OF DESIGN, AND THE ABILITY TO BUILD SOMETHING NEW FROM SCRATCH",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/18%20The%20Architect.png"
+  },
+  
+  {
+    "cardname": "THE VOYAGER",
+    "carddesc": "THE JOURNEY OF EXPLORATION AND DISCOVERY. THE COURAGE TO TAKE RISKS, AND THE POWER OF CURIOSITY AND WONDER",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/19%20The%20Voyager.png"
+  },
+  
+  {
+    "cardname": "FLUX",
+    "carddesc": "THE EVER-CHANGING NATURE OF LIFE AND THE IMPORTANCE OF ADAPTING TO NEW CIRCUMSTANCES. EMBRACING CHANGE AND FLOWING WITH THE CURRENT",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/20%20Flux.png"
+  },
+
+  {
+    "cardname": "LUMINESCENCE",
+    "carddesc": "THE POWER OF INNER RADIANCE, AND THE ABILITY TO SHINE FROM WITHIN. THE IMPORTANCE OF CULTIVATING INNER STRENGTH, CONFIDENCE, AND AUTHENTICITY",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/21%20Luminescence.png"
+  },
+  
+  {
+    "cardname": "ECHO",
+    "carddesc": "THE POWER OF RESONANCE, AND THE RIPPLE EFFECT OF OUR ACTIONS. THE INTERCONNECTEDNESS OF ALL THINGS, AND CONSIDERATION OF THE IMPACT OF OUR CHOICES",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/22%20Echo.png"
+  },
+  
+
+]
+
+
+
+
+
+
+
