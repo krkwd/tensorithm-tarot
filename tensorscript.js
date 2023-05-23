@@ -18,7 +18,7 @@ function drawCards() {
 
   // Retrieve the card data from the Google Sheet using Tabletop.js
   Tabletop.init({
-    key: 'https://docs.google.com/spreadsheets/d/1W0Ns7a0G0WU7cGJMwBMfmTHx0GPd5OPjLxvdy_GLsuw/edit?usp=share_link',
+    key: 'https://docs.google.com/spreadsheets/d/1W0Ns7a0G0WU7cGJMwBMfmTHx0GPd5OPjLxvdy_GLsuw/edit?usp=sharing',
     callback: function (data, tabletop) {
       // Shuffle the card data array
       shuffleArray(data);
