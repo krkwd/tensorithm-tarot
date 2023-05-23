@@ -62,8 +62,8 @@ h1 {
 
 @media screen and (min-width: 768px) {
   .card-container .card {
-    max-width: 75%;
-    width: 75%;
+    max-width: 35%;
+    width: 35%;
   }
   
   .card-container .card-image {
