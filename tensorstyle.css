@@ -52,3 +52,16 @@ h1 {
   border-radius: 4px;
   cursor: pointer;
 }
+
+.card-image {
+  width: 100%;
+  height: auto;
+  cursor: pointer;
+}
+
+@media screen and (min-width: 768px) {
+  .card-image {
+    max-width: 35%;
+    width: auto;
+  }
+}
