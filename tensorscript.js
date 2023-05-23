@@ -16,10 +16,10 @@ function drawCards() {
   const numCards = parseInt(document.getElementById('num-cards').value);
   const cardContainer = document.getElementById('card-container');
 
-  // Retrieve the card data from the Google Sheet using Tabletop.js
-  Tabletop.init({
-    key: 'https://docs.google.com/spreadsheets/d/1W0Ns7a0G0WU7cGJMwBMfmTHx0GPd5OPjLxvdy_GLsuw/edit?usp=sharing',
-    callback: function (data, tabletop) {
+  // Retrieve the card data from the JSON
+fetch('tensordb.json')
+  .then(response => response.json())
+  .then(data => {
       // Shuffle the card data array
       shuffleArray(data);
 
