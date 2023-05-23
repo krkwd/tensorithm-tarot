@@ -14,19 +14,21 @@ h1 {
 }
 
 .card-container img {
-  max-width: 100%;
-  width: 100%;
+  max-width: 20%;
+  width: 20%;
   height: auto;
   cursor: pointer;
 }
 
-@media screen and (min-width: 768px) {
   .card-image {
-    max-width: 35%;
-    width: auto;
+    max-width: 100%;
+    width: 20%;
+
+@media screen and (min-width: 768px) {
+
   .card-container .card {
-    max-width: 75%;
-    width: 75%;
+    max-width: 100%;
+    width: 100%;
     }
   }
 }
