@@ -16,15 +16,15 @@ function drawCards() {
   const numCards = parseInt(document.getElementById('num-cards').value);
   const cardContainer = document.getElementById('card-container');
 
+  // Clear the card container
+  cardContainer.innerHTML = '';
+
   // Retrieve the card data from the JSON
-fetch('tensordb.json')
-  .then(response => response.json())
-  .then(data => {
+  fetch('tensordb.json')
+    .then(response => response.json())
+    .then(data => {
       // Shuffle the card data array
       shuffleArray(data);
-
-      // Clear the card container
-      cardContainer.innerHTML = '';
 
       // Draw the specified number of cards
       for (let i = 0; i < numCards; i++) {
@@ -32,9 +32,8 @@ fetch('tensordb.json')
         const cardElement = createCardElement(card);
         cardContainer.appendChild(cardElement);
       }
-    },
-    simpleSheet: true
-  });
+    })
+    .catch(error => console.error('Error:', error));
 }
 
 // Function to create a card element
