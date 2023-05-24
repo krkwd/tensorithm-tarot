@@ -1,33 +1,28 @@
-  <html>
+<html>
   <body>
-  <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Card Selector</title>
-  <link rel="stylesheet" type="text/css" href="tensorstyle.css">
-  <link rel="stylesheet" type="text/css" href="output.css">
-    
-</head>
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Card Selector</title>
+      <link rel="stylesheet" type="text/css" href="output.css">
+    </head>
 
-<h1>Tarot Card Selector</h1>
+    <h1 class="text-center">Tarot Card Selector</h1>
 
-  <div id="card-selection">
-    <label for="num-cards">Number of Cards:</label>
-    <select id="num-cards">
-      <option value="1">1</option>
-      <option value="2">2</option>
-      <option value="3">3</option>
-      <option value="4">4</option>
-      <option value="5">5</option>
-    </select>
-    <button id="draw-cards-button">Draw Cards</button>
-  </div>
+    <div class="text-center my-20">
+      <label for="num-cards">Number of Cards:</label>
+      <select id="num-cards">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+      </select>
+      <button id="draw-cards-button" class="px-4 py-2 bg-blue-500 text-white rounded">Draw Cards</button>
+    </div>
 
-  <div id="card-container"></div>
+    <div id="card-container" class="flex flex-wrap justify-center"></div>
 
-  
-<!-- JAVASCRIPT FILE -->
-<script src="tensorscript.js"></script>
-
-</body>
+    <script src="tensorscript.js"></script>
+  </body>
 </html>
