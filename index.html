@@ -3,25 +3,51 @@
     <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Card Selector</title>
+      <title>Tensorithm - AI Tarot Card Selector</title>
       <link rel="stylesheet" type="text/css" href="output.css">
+      <link rel="icon" href="images/favicon.png" type="image/x-icon">
     </head>
+    
+    <div><image src="images/tensorithm-social-img.png"></div>
+      
+    <div>
+      <p>This is a rudimentary tool, because as you'll see if you read the ReadMe in the <a href="https://github.com/krkwd/tensorithm-tarot">repo</a>, I'm not a developer. It can output 1 to 5 cards. No patterns. No Celtic Cross. But even with these limitations, there are some useful approaches to getting the guidance you seek.
+      </p>
+      <p>A few examples:
+        <ul>
+          <li><b>Single Card Reading:</b> Draw a single card to gain insight into a specific question or situation. The card represents the energies and guidance related to the inquiry. This can also be a YES/NO question, with the answer being up to the seeker's interpretation of the meaning and symbolism, and how it relates to the question</li>
+          <li><b>Two Card Reading:</b> <i>Present and future</i>. Draw two cards to gain insight into the current situation, and guidance on how to move forward.</li>
+          <li><b>Two Card Reading:</b> <i>Forking paths</i>. Draw two cards to gain insight into the current situation, and guidance on how to move forward.</li>
+          <li><b>Three Card Reading:</b> <i>Past, present, future</i>. Past influences, present circumstances, future possibilities will be revealed.</li>
+          <li><b>Three Card Reading:</b> <i>Decision-making</i>. Draw three cards to view three possible solutions to a problem or challenge. Each card represents a choice or aspect to consider, helping the seeker gain clarity.</li>
+          <li><b>Five Card Reading:</b>: <i>Modified Celtic Cross</i>.  Draw five cards to represent different aspects of a situation, such as the present influences, challenges, guidance, and potential outcomes.</li>
+          <ul><li>Your current state of being</li>
+          <li>Your current influence or obstacle</li>
+          <li>The origin of your influence of obstacle</li>
+          <li>The outcome if you follow your current path</li>
+          <li>The outcome if you follow the path the fifth card presents</li>
+          </ul></ul>
+         
+Or come up with your own techniques. There are no wrong approaches to tarot as long as your question is clear and you are open to accepting the answers presented.
 
-    <h1 class="text-center">Tarot Card Selector</h1>
+    <h1 class="text-center">ASK YOUR QUESTION. BE SPECIFIC</h1>
 
     <div class="text-center my-20">
-      <label for="num-cards">Number of Cards:</label>
+      <label for="num-cards">HOW MANY CARDS?:</label>
       <select id="num-cards">
         <option value="1">1</option>
         <option value="2">2</option>
         <option value="3">3</option>
         <option value="4">4</option>
+        A 
         <option value="5">5</option>
       </select>
-      <button id="draw-cards-button" class="px-4 py-2 bg-blue-500 text-white rounded">Draw Cards</button>
+      <button id="draw-cards-button" class="px-4 py-2 bg-blue-500 text-white rounded">DRAW CARDS</button>
+          <br><br><br>
     </div>
 
     <div id="card-container" class="flex flex-wrap justify-center"></div>
+    <br><br><br>
 
     <script src="tensorscript.js"></script>
   </body>
