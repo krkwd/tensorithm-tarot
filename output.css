@@ -10,6 +10,12 @@ body {
   padding: 20px;
 }
 
+.card-container img {
+  max-width: 100%;
+  height: auto;
+  cursor: pointer;
+}
+
 .hidden {
   display: none;
 }
