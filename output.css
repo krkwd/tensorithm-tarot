@@ -1,0 +1,25 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import url('https://fonts.googleapis.com/css2?family=Arial');
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.hidden {
+  display: none;
+}
+
+.card-image {
+  cursor: pointer;
+}
+
+@media screen and (min-width: 768px) {
+  .card-image {
+    width: 20%;
+  }
+}
