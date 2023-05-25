@@ -130,13 +130,345 @@
     "cardname": "ECHO",
     "carddesc": "THE POWER OF RESONANCE, AND THE RIPPLE EFFECT OF OUR ACTIONS. THE INTERCONNECTEDNESS OF ALL THINGS, AND CONSIDERATION OF THE IMPACT OF OUR CHOICES",
     "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/22%20Echo.png"
+  },
+  
+    {
+    "cardname": "ACE OF CELESTIALS",
+    "carddesc": "THE BEGINNING OF A JOURNEY GUIDED BY THE COSMOS. THE SEEKER IS EMBARKING ON A NEW PATH, ONE THAT IS DIVINELY GUIDED, WITH THE POTENTIAL TO LEAD TO GREAT THINGS",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/01%20Ace%20of%20Celestials.png"
+  },
+  
+    {
+    "cardname": "2 OF CELESTIALS",
+    "carddesc": "A MOMENT OF INSPIRATION AND HOPE, SPARKED BY A SUDDEN BURST OF INTUITION AND INSIGHT. THE SEEKER SHOULD BE OPEN TO NEW POSSIBILITIES",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/02%20of%20Celestials.png"
+  },
+  
+    {
+    "cardname": "3 OF CELESTIALS",
+    "carddesc": "UNEXPECTED OPPORTUNITIES OR BLESSINGS. THE SEEKER SHOULD BE ON THE LOOKOUT FOR POSITIVE CHANGES, AS THEY MAY COME FROM UNEXPECTED SOURCES",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/03%20of%20Celestials.png"
+  },
+  
+    {
+    "cardname": "4 OF CELESTIALS",
+    "carddesc": "FINDING CLARITY AND TRUTH IN DIFFICULT SITUATIONS, SHINING A LIGHT ON WHAT WAS HIDDEN",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/04%20of%20Celestials.png"
+  },
+  
+    {
+    "cardname": "5 OF CELESTIALS",
+    "carddesc": "AWE AND WONDER. THE SEEKER HAS A DESIRE TO MARVEL ATTHE VAST EXPANSE OF THE UNIVERSE, AND SHOULD EXPAND THEIR HORIZONS",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/05%20of%20Celestials.png"
+  },
+  
+    {
+    "cardname": "6 OF CELESTIALS",
+    "carddesc": "SUDDEN CHANGE AND UPHEAVAL. UNEXPECTED EVENTS WILL DISRUPT THE STATUS QUO AND PROPEL THE SEEKER IN A NEW DIRECTION",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/06%20of%20Celestials.png"
+  },
+  
+    {
+    "cardname": "7 OF CELESTIALS",
+    "carddesc": "INSPIRATION AND CREATIVITY. THE SEEKER SHOULD LOOK FOR BEAUTY AND WONDER IN EVERYDAY LIFE",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/07%20of%20Celestials.png"
+  },
+  
+    {
+    "cardname": "8 OF CELESTIALS",
+    "carddesc": "A TURNING POINT OR MOMENT OF RECKONING. THIS IS A TIME OF TRANSFORMATION, OR AN ENCOUNTER WITH SOMETHING ONCE OBSCURED. THE SEEKER SHOULD FIND A WAY TO BALANCE OPPOSING FORCES",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/08%20of%20Celestials.png"
+  },
+  
+    {
+    "cardname": "9 OF CELESTIALS",
+    "carddesc": "ASTROLOGICAL SIGNS. THE SEEKER NEEDS TO UNDERSTAND AND WORK WITH THE DIFFERENT ENERGIES ASSOCIATED WITH THE SIGNS, AND EMBRACE THEIR QUALITIES",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/09%20of%20Celestials.png"
+  },
+  
+    {
+    "cardname": "10 OF CELESTIALS",
+    "carddesc": "VASTNESS AND COMPLEXITY. THE SEEKER SHOULD EXPLORE NEW OPPORTUNITIES TO CONNECT WITH SOMETHING GREATER THAN THEMSELVES",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/10%20of%20Celestials.png"
+  },
+  
+      {
+    "cardname": "PAGE OF CELESTIALS",
+    "carddesc": "THIRST FOR KNOWLEDGE AND EXPLORATION. THE SEEKER IS BEGINNING A JOURNEY OF DISCOVERY WITH ENERGY AND ENTHUSIASM",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/11%20Page%20of%20Celestials.png"
+  },
+  
+      {
+    "cardname": "KNIGHT OF CELESTIALS",
+    "carddesc": "ADVENTURE AND EXPLORATION. THE SEEKER IS EAGER TO EXPLORE NEW FRONTIERS, AND UNLOCK THE SECRETS OF THE UNIVERSE",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/12%20Knight%20of%20Celestials.png"
+  },
+  
+      {
+    "cardname": "QUEEN OF CELESTIALS",
+    "carddesc": "THE POWER OF INTUITION. THE ABILITY TO ACCESS HIGHER REALMS OF KNOWLEDGE. THE SEEKER SHOULD TRUST THEIR INSTINCTS AND LISTEN TO THEIR INNER VOICE. THEY MAY ALSO NEED NURTURING IN SUPPORT IN THEIR LIFE",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/13%20Queen%20of%20Celestials.png"
+  },
+  
+      {
+    "cardname": "KING OF CELESTIALS",
+    "carddesc": "DEEP UNDERSTANDING. SKILL AND PRECISION. THE SEEKER MAY BE EXPERIENCING GREAT SUCCESS AND ACHIEVEMENT, AND SHOULD USE THEIR AUTHORITY TO TAKE CHARGE AND LEAD. THIS IS ALSO A TIME FOR SPIRITUAL GROWTH",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/14%20King%20of%20Celestials.png"
+  },
+  
+{
+    "cardname": "ACE OF RELICS",
+    "carddesc": "BEGINNING A QUEST FOR KNOWLEDGE, DELVING INTO THE PAST TO UNCOVER HIDDEN SECRETS AND MYSTERIES. THE SEEKER MUST BE PATIENT AND PERSISTENT IN THEIR SEARCH",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/01%20Ace%20of%20Relics.png"
+  },
+  
+    {
+    "cardname": "2 OF RELICS",
+    "carddesc": "FACING A DIFFICULT CHOICE OR MORAL DILEMMA. THE SEEKER IS AT A CROSSROADS, AND MUST WEIGH THEIR OPTIONS BEFORE MAKING A DECISION",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/02%20of%20Relics.png"
+  },
+  
+    {
+    "cardname": "3 OF RELICS",
+    "carddesc": "THE POWER OF INTERCONNECTEDNESS AND THE VALUE OF COLLABORATION. THE SEEKER MUST USE COOPERATION TO ACHIEVE THE COMPLEX TASKS AHEAD. THE SEEKER SHOULD USE THE TOOLS OF THE DIGITAL AGE",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/03%20of%20Relics.png"
+  },
+  
+    {
+    "cardname": "4 OF RELICS",
+    "carddesc": "REALIZING THAT TIME IS OF THE ESSENCE, AND PROCRASTINATION SHOULD BE AVOIDED. THE SEEKER MUST USE WISDOM GAINED FROM THEIR PAST TO GUIDE THEIR FUTURE DECISIONS",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/04%20of%20Relics.png"
+  },
+  
+    {
+    "cardname": "5 OF RELICS",
+    "carddesc": "SETBACKS AND CHALLENGES IN THE REALM TECHNOLOGY AND INNOVATION. CURRENT PROJECTS MAY BE MIRED IN FRUSTRATION. THE SEEKER SHOULD EMPLOY ADAPTABILITY, RESILIENCE, AND EXPERIMENTATION",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/05%20of%20Relics.png"
+  },
+  
+    {
+    "cardname": "6 OF RELICS",
+    "carddesc": "THE RESULTS OF HARD WORK AND PERSISTENCE. THE SEEKER IS ON THE RIGHT TRACK, AND THEIR EFFORTS WILL SOON PAY OFF IF THEY REMAIN COMMITTED AND DEDICATED",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/06%20of%20Relics.png"
+  },
+  
+    {
+    "cardname": "7 OF RELICS",
+    "carddesc": "INNOVATION IN THE REALM OF TECHNOLOGY. THE SEEKER MUST THINK OUTSIDE THE BOX AND EXPLORE UNCONVENTIONAL METHODS TO ACHIEVE THEIR GOALS",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/07%20of%20Relics.png"
+  },
+  
+    {
+    "cardname": "8 OF RELICS",
+    "carddesc": "PERSERVERING IN THE DEVELOPMENT OF NEW TECHNICAL SKILLS. THE SEEKER SHOULD DEVELOP NEW TOOLS TO HELP THEM ACHIEVE THEIR GOALS",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/08%20of%20Relics.png"
+  },
+  
+    {
+    "cardname": "9 OF RELICS",
+    "carddesc": "ATTAINMENT OF A TECHNOLOGICAL MILESTONE. THE SEEKER SHOULD CELEBRATE THEIR HARD-WON ACHIEVEMENTS",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/09%20of%20Relics.png"
+  },
+  
+    {
+    "cardname": "10 OF RELICS",
+    "carddesc": "MASTERY AND EXPERTISE IN TECHNOLOGY OR ENGINEERING. THE SEEKER SHOULD CONTINUE GROWING WHILE ALSO SHARING THEIR KNOWLEDGE WITH OTHERS",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/10%20of%20Relics.png"
+  },
+  
+      {
+    "cardname": "PAGE OF RELICS",
+    "carddesc": "BEGINNING A JOURNEY TO UNCOVER HIDDEN TREASURES. THE SEEKER SHOULD BE OPEN TO NEW OPPORTUNITIES AND AREAS OF INTEREST",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/11%20Page%20of%20Relics.png"
+  },
+  
+      {
+    "cardname": "KNIGHT OF RELICS",
+    "carddesc": "THE UNWAVERING PURSUIT OF LOST TREASURES. THE SEEKER MUST STAY FOCUSED ON GOALS TO PERSEVERE THROUGH THE OBSTACLES THAT WILL ALMOST CERTAINLY ARISE",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/12%20Knight%20of%20Relics.png"
+  },
+  
+      {
+    "cardname": "QUEEN OF RELICS",
+    "carddesc": "DEEP UNDERSTANDING OF ANCIENT ARTIFACTS AND TREASURES. THE SEEKER HAS REACHED A POINT OF KEEN INTUITION REGARDING LOST OR OCCULTED KNOWLEDGE",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/13%20Queen%20of%20Relics.png"
+  },
+  
+      {
+    "cardname": "KING OF RELICS",
+    "carddesc": "MASTERY OVER THE LOST AND HIDDEN TREASURES OF THE WORLD. THE SEEKER HAS REACHED A LEVEL OF MASTERY OVER ANCIENT KNOWLEDGE, AND SHOULD SHARE THIS WITH OTHERS",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/14%20King%20of%20Relics.png"
+  },
+  
+  {
+    "cardname": "ACE OF CATALYSTS",
+    "carddesc": "BEGINNING A NEW PROJECT. A SPARK OF AN IDEA WAITING TO BE NURTURED. THE SEEKER SHOULD FOCUS ON THE POSSIBILITIES AND OPPORTUNITIES THAT LIE AHEAD, UNDETERRED BY CHALLENGES THAT MAY COME ALONG THE WAY",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/01%20Ace%20of%20Catalysts.png"
+  },
+  
+    {
+    "cardname": "2 OF CATALYSTS",
+    "carddesc": "THE EARLY STAGES OF GROWTH AND DEVELOPMENT. A NEW IDEA HAS BEEN PLANTED, BUT IS STILL FRAGILE AND REQUIRES NUTURING IN ORDER TO REACH ITS FULL POTENTIAL. THE SEEKER SHOULD REMEMBER THAT GROWTH IS A SLOW PROCESS",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/02%20of%20Catalysts.png"
+  },
+  
+    {
+    "cardname": "3 OF CATALYSTS",
+    "carddesc": "EXTERNAL AND INTERNAL EXPLORATION. THE SEEKER IS IN A PERIOD OF GROWTH AND EXPANSION, AND SHOULD CONTINUE WITH DETERMINATION AND FOCUS USING THEIR VISION AND PRACTICAL SKILLS",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/03%20of%20Catalysts.png"
+  },
+  
+    {
+    "cardname": "4 OF CATALYSTS",
+    "carddesc": "FERTILITY, GROWTH, AND ABUNDANCE. THE SEEKER MUST BE PATIENT AND NURTURING TOWARD THEIR IDEA. WORK IS REQUIRED, AS WELL AS ACCEPTING SUPPORT OR RESOURCES",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/04%20of%20Catalysts.png"
+  },
+  
+    {
+    "cardname": "5 OF CATALYSTS",
+    "carddesc": "UPHEAVAL AND DIFFICULTY. HOPE AMONGST CHAOS. THE SEEKER NEEDS RESILIENCE IN THE FACE OF ADVERSITY IN ORDER TO USE CHALLENGES AS NEW POSSIBILITIES",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/05%20of%20Catalysts.png"
+  },
+  
+    {
+    "cardname": "6 OF CATALYSTS",
+    "carddesc": "COMMUNITY, CELEBRATION, COMMON CAUSES. THIS IS A TIME OF JOY AND SUCCESS, AND PEOPLE ARE UNITED IN THEIR EFFORT. THE SEEKER SHOULD HARNESS THIS ENERGY FOR POSITIVE CHANGE",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/06%20of%20Catalysts.png"
+  },
+  
+    {
+    "cardname": "7 OF CATALYSTS",
+    "carddesc": "GROWTH AND POTENTIAL. TRUSTING NATURAL PROCESS OF EVOLUTION. THE SEEKER HAS LAID THE GROUNDWORK, AND SHOULD NOW FOCUS ON NURTURING AND CULTIVATING THEIR IDEAS, PROJECTS, OR RELATIONSHIPS",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/07%20of%20Catalysts.png"
+  },
+  
+    {
+    "cardname": "8 OF CATALYSTS",
+    "carddesc": "EXPLORATION AND DISCOVERY. CALCULATED RISKS ARE REQUIRED TO ACHIEVE GOALS. THE SEEKER MUST BE PREPARED TO ADAPT AND PIVOT WHEN RISKS ARE REALIZED",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/08%20of%20Catalysts.png"
+  },
+  
+    {
+    "cardname": "9 OF CATALYSTS",
+    "carddesc": "OVERCOMING OBSTACLES THROUGH SUSTAINED EFFORT. THE SEEKER HAS REACHED A LEVEL OF PERSONAL MASTERY THROUGH THE WISDOM GAINED DURING DIFFICULT TIMES",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/09%20of%20Catalysts.png"
+  },
+  
+    {
+    "cardname": "10 OF CATALYSTS",
+    "carddesc": "FULFILLMENT OF A LONG-TERM GOAL OR COMPLETION OF A PROJECT. THE SEEKER CAN TAKE SATISFACTION IN THEIR HARD WORK, AND CELEBRATE THEIR SUCCESSES",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/10%20of%20Catalysts.png"
+  },
+  
+      {
+    "cardname": "PAGE OF CATALYSTS",
+    "carddesc": "BEGINNING A NEW CREATIVE OR ENTREPRENEURIAL VENTURE. THE SEEKER HAS THE POTENTIAL TO BE A TRAILBLAZER IF THEY ARE WILLING TO TAKE RISKS",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/11%20Page%20of%20Catalysts.png"
+  },
+  
+      {
+    "cardname": "KNIGHT OF CATALYSTS",
+    "carddesc": "ENERGY AND CONFIDENCE. A DRIVEN PERSON WITH A CLEAR VISION, UNAFRAID OF TAKING BOLD ACTION TO ENACT THAT VISION. THE SEEKER SHOULD TRUST THEIR INSTINCTS",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/12%20Knight%20of%20Catalysts.png"
+  },
+  
+      {
+    "cardname": "QUEEN OF CATALYSTS",
+    "carddesc": "CREATIVITY, INTUITION, AND EMOTIONAL DEPTH. THE SEEKER SHOULD TAP INTO THEIR INTUITION AND CONNECT WITH THEIR EMOTIONS TO ACHIEVE A GREATER SENSE OF FULFILLMENT",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/13%20Queen%20of%20Catalysts.png"
+  },
+  
+      {
+    "cardname": "KING OF CATALYSTS",
+    "carddesc": "TRANSFORMATION ENACTED THROUGH POWER AND PASSION. THE SEEKER MUST EMBODY REGAL ENERGY AND PRESENCE TO NAVIGATE THESE CHANGES WITH WISDOM AND STRENGTH",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/14%20King%20of%20Catalysts.png"
+  },
+  
+  {
+    "cardname": "ACE OF CIPHERS",
+    "carddesc": "BEGINNING OF A JOURNEY INTO THE UNKNOWN. THE SEEKER HAS THE POTENTIAL TO UNLOCK THE DEEPER SECRETS OF THEIR PSYCHE",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/01%20Ace%20of%20Ciphers.png"
+  },
+  
+    {
+    "cardname": "2 OF CIPHERS",
+    "carddesc": "EXCHANGING SECRETS. THE SEEKER MAY RECEIVE AN IMPORTANT MESSAGE THAT LEADS TO A GREAT INSIGHT",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/02%20of%20Ciphers.png"
+  },
+  
+    {
+    "cardname": "3 OF CIPHERS",
+    "carddesc": "ILLUMINATION AND CLARITY. THE SEEKER IS ON THE VERGE OF GAINING AN INSIGHT INTO A SITUATION",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/03%20of%20Ciphers.png"
+  },
+  
+    {
+    "cardname": "4 OF CIPHERS",
+    "carddesc": "UNLOCKING HIDDEN KNOWLEDGE. ACCESSING A SECRET REALM. THE SEEKER IS ON THE BRINK OF A SIGNIFICANT DISCOVERY, SO THEY SHOULD BE PERSISTENT",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/04%20of%20Ciphers.png"
+  },
+  
+    {
+    "cardname": "5 OF CIPHERS",
+    "carddesc": "INSTROSPECTION. HIDDEN MEANINGS. THERE IS SOMETHING TO BE UNCOVERED, BUT A DEEPER LEVEL OF INSIGHT IS REQUIRED TO FIND IT. THE SEEKER MUST TRUST THEIR INSTINCTS AND RELY ON INTUITION",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/05%20of%20Ciphers.png"
+  },
+  
+    {
+    "cardname": "6 OF CIPHERS",
+    "carddesc": "SUDDEN BREAKTHROUGHS. A MOMENT OF CLARITY ALLOWS THE SEEKER TO SEE A SITUATION IN A NEW LIGHT. FRESH PERSPECTIVES MUST BE TAKEN ON, AND INTUITION SHOULD BE TRUSTED",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/06%20of%20Ciphers.png"
+  },
+  
+    {
+    "cardname": "7 OF CIPHERS",
+    "carddesc": "SEARCHING FOR DEEPER UNDERSTANDING. THE SEEKER MUST GO BYOND THE SURFACE OF A PROBLEM AND EXPLORE ITS DEEPER LAYERS OF MEANING",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/07%20of%20Ciphers.png"
+  },
+  
+    {
+    "cardname": "8 OF CIPHERS",
+    "carddesc": "PURSUING HIGHER KNOWLEDGE AND WISDOM. THERE IS A VAST UNIVERSE OF HIDDEN KNOWLEDGE WAITING TO BE EXPLORED. THE SEEKER MUST CONTINUE THEIR JOURNEY OF SELF-DISCOVERY TO FIND NEW SOURCES OF UNDERSTANDING",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/08%20of%20Ciphers.png"
+  },
+  
+    {
+    "cardname": "9 OF CIPHERS",
+    "carddesc": "INTROSPECTION AND CONTEMPLATION. THE NATURAL WORLD IS A POWERFUL SOURCE OF INSIGHT. THE SEEKER MUST TAKE TIME TO TAKE NOTE OF THEIR PHYSICAL SURROUNDINGS TO GAIN THE NEXT LEVEL OF UNDERSTANDING",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/09%20of%20Ciphers.png"
+  },
+  
+    {
+    "cardname": "10 OF CIPHERS",
+    "carddesc": "CULMINATION OF A JOURNEY TOWARD UNDERSTANDING. THE SEEKER HAS REACHED A POINT OF CLARITY, AND THE INSIGHTS GAINED WILL HELP THEM MOVE FORWARD TO THE MORE DISTANT MYSTERIES OF LIFE",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/10%20of%20Ciphers.png"
+  },
+  
+      {
+    "cardname": "PAGE OF CIPHERS",
+    "carddesc": "THE BEGINNING OF A JOURNEY TOWARD KNOWLEDGE AND UNDERSTANDING. THE SEEKER MUST BE OPEN TO NEW IDEAS AND AREAS OF INTEREST",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/11%20Page%20of%20Ciphers.png"
+  },
+  
+      {
+    "cardname": "KNIGHT OF CIPHERS",
+    "carddesc": "FOCUS AND DETERMINATION. THE UNWAVERING PURSUIT OF KNOWLEDGE. THE SEEKER MUST REMAIN FOCUSED IN ORDER TO PERSERVERE THROUGH OBSTACLES THAT MAY ARISE",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/12%20Knight%20of%20Ciphers.png"
+  },
+  
+      {
+    "cardname": "QUEEN OF CIPHERS",
+    "carddesc": "DEEP INTUITION AND WISDOM. THE SEEKER HAS GAINED POWERFUL INSIGHTS, AND SHOULD MAKE WISE DECISIONS AND GUIDE OTHERS TOWARD UNDERSTANDING",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/13%20Queen%20of%20Ciphers.png"
+  },
+  
+      {
+    "cardname": "KING OF CIPHERS",
+    "carddesc": "MASTERY OVER KNOWLEDGE. THE SEEKER HAS REACHED A POINT OF MASTERY IN THE PURSUIT OF KNOWLEDGE, AND SHOULD SHARE THEIR WISDOM WITH OTHERS ",
+    "cardpic": "https://raw.githubusercontent.com/krkwd/tensorithm-tarot/main/images/14%20King%20of%20Ciphers.png"
   }
   
-
 ]
-
-
-
 
 
 
