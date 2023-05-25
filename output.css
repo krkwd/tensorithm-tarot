@@ -26,6 +26,6 @@ body {
 
 @media screen and (min-width: 768px) {
   .card-image {
-    width: 100%;
+    width: 75%;
   }
 }
