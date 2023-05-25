@@ -4,8 +4,8 @@
 
 body {
   font-family: "Courier New", Courier, monospace;
-  color: #fff;
-  background-color: #000;
+  color: #000;
+  background-color: #fff;
   padding: 20px;
 }
 
@@ -21,11 +21,11 @@ body {
 
 .card-image {
   cursor: pointer;
-  width: 75%;
+  width: 100%;
 }
 
 @media screen and (min-width: 768px) {
   .card-image {
-    width: 20%;
+    width: 60%;
   }
 }
