@@ -13,9 +13,9 @@ Welcome to The Tensorithm Tarot. This project brings together the enigmatic visi
 ## About the Deck
 On my prompting, ChatGPT 3.5 created new cards, meanings for each card, and visual descriptions of each card’s imagery. The descriptions were then fed to Midjourney to render as faithfully as possible
 
-Read more, and see the full deck at [my personal site](justinckirkwood.net/tensorithm)
+Read more, and see the full deck at [my personal site](https://justinckirkwood.net/tensorithm)
 
-Note that I'm not a developer. Not by a long sight. ChatGPT and Code.chat carried me along every step of the way in putting the code together and setting up this repo. If you want to make this deck a little more beautiful, port it to an app, make it embeddable, make it do spreads... please run with it. But keep us informed, yeah? Be nice.
+Note that I'm not a developer. Not by a long sight. ChatGPT and Code.chat carried me along every step of the way in putting the primitive code together and setting up this repo. If you want to make this deck a little more beautiful, port it to an app, make it responsive, make it embeddable, make it do spreads... please run with it. But keep us informed, yeah? Be nice.
 
 ## How to Use
 Choose the number of cards you desire from the dropdown, and click the Draw Cards button. There are no card reversals. These cards reveal what is, not what isn't. That being said, some folks are all about incorporating reversals, so add it to the list of things I don't know how to do that may be done by someone else.
