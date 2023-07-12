@@ -11,7 +11,7 @@
 Welcome to The Tensorithm Tarot. This project brings together the enigmatic vision of ChatGPT and the aggregated artistry of Midjourney to create a digital tarot deck that rides the line where spirit meets silicon.
 
 ## About the Deck
-On my prompting, ChatGPT 3.5 created new cards, meanings for each card, and visual descriptions of each card’s imagery. The descriptions were then fed to Midjourney to render as faithfully as possible
+On my prompting, ChatGPT 3.5 created new cards, meanings for each card, and visual descriptions of each card’s imagery. The descriptions were then fed to Midjourney to render as faithfully as possible.
 
 Read more, and see the full deck at [my personal site](https://justinckirkwood.net/tensorithm)
 
