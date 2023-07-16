@@ -9,10 +9,51 @@ body {
   padding: 20px;
 }
 
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.dashed-square {
+  width: 50px;
+  height: 80px;
+  border: 2px dashed #686767;
+  display: inline-block;
+  margin-right: 15px;
+  margin-bottom: 10px;
+}
+
+
+#draw-cards-button {
+  border: 2px dashed #686767;
+  background: transparent;
+  padding: 5px 5px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+#num-cards {
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  color: #0070E0;
+  background-color: #fff;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+#num-cards option {
+  padding: 10px;
+}
+
+
 .card-container img {
   max-width: 100%;
   height: auto;
-  cursor: pointer;
 }
 
 .hidden {
@@ -21,11 +62,76 @@ body {
 
 .card-image {
   cursor: pointer;
-  width: 100%;
+  width: 70%;
 }
 
-@media screen and (min-width: 768px) {
-  .card-image {
-    width: 60%;
+.container {
+  display: flex;
+  font-size: 14px;
+  padding: 60px 200px 60px 200px; /* top right bottom left */
+}
+  
+.left-column {
+  flex: 0 0 30%; /* 30% width for the left column */
+}
+  
+.right-column {
+  margin-left: 50px;
+}
+
+.welcome-column {
+  padding: 30px 30px 30x 150px; /* top right bottom left */
+}
+
+/* MOBILE */
+@media screen and (max-width: 767px) {
+
+  body {
+    font-family: "Courier New", Courier, monospace;
+    color: #000;
+    background-color: #fff;
+    padding: 0px;
   }
+
+  .dashed-square {
+    width: 15px;
+    height: 40px;
+    border: 2px dashed #686767;
+    display: inline-block;
+    margin-right: 15px;
+    margin-bottom: 10px;
+  }
+
+  .container {
+    display: flex;
+    padding: 5px 5px 5px 5px; /* top right bottom left */
+    flex-direction: column;
+
+  }
+
+  .container div {
+    padding: 10px;
+  }
+
+  .left-column {
+    margin-left: 15px;
+    }
+  
+
+  .right-column {
+  margin-left: 0px;
+  }
+
+  .card-container img {
+    max-width: 100%;
+    height: auto;
+    cursor: auto;
+  }
+
+  .card-image {
+    cursor: pointer;
+    width: 100%;
+  }
+
+  
 }
