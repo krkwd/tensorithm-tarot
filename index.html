@@ -8,36 +8,6 @@
   </head>
 
   <body>
-    <style>
-      .container {
-        display: flex;
-        padding: 60px 200px 60px 200px; /* top right bottom left */
-      }
-      
-      .left-column {
-        flex: 0 0 30%; /* 30% width for the left column */
-      }
-      
-      .welcome-column {
-        padding: 30px 30px 30x 150px; /* top right bottom left */
-      }
-
-/* For screens with a max-width of 600px */
-@media screen and (max-width: 600px) {
-    .container {
-        display: flex;
-        padding: 10px 20px 30px 10px; /* top right bottom left */
-	flex-direction: column;
-    }
-
-    .container div {
-        padding: 10px;
-    }
-}
-	    
-	    
-    </style>
-    <tt>
 
     <div class="container">
       <div class="left-column">
@@ -63,7 +33,7 @@ ASK YOUR QUESTION. BE SPECIFIC.
         <button id="draw-cards-button" class="px-4 py-2 bg-blue-500 text-white rounded">DRAW CARDS</button>
         <br>
       </div>
-	<script src="tensorscript.js"></script>
+
     </div>
 <br><br><br>
     <div id="card-container" class="flex flex-wrap justify-center"></div>
@@ -74,18 +44,28 @@ ASK YOUR QUESTION. BE SPECIFIC.
       <div class="right-column">
         <div class="welcome-column">
           <p>
-            WELCOME! THIS IS A TOOL FOR DRAWING 1 TO 5 RANDOM CARDS FROM <b><font color = "red">THE TENSORITHM TAROT DECK</fon></b>, AN AI-GENERATED TAROT SYSTEM BROUGHT TO YOU BY CHATGPT AND MIDJOURNEY. SEE THE FULL DECK AND READ MORE ABOUT THE PROJECT <a href="https://justinckirkwood.net/tensorithm" target="_blank">HERE</a>, OR GO TO THE GITHUB REPO <a href="https://github.com/krkwd/tensorithm-tarot" target="_blank">HERE</a> IF YOU'RE INTERESTED IN CONTRIBUTING TO THIS PROJECT.
+            WELCOME! THIS IS A TOOL FOR DRAWING 1 TO 5 RANDOM CARDS FROM <b><font color = "red">THE TENSORITHM TAROT DECK</font></b>, AN AI-GENERATED TAROT SYSTEM BROUGHT TO YOU BY CHATGPT AND MIDJOURNEY. SEE THE FULL DECK AND READ MORE ABOUT THE PROJECT <a href="https://justinckirkwood.net/tensorithm" target="_blank">HERE</a>, OR GO TO THE GITHUB REPO <a href="https://github.com/krkwd/tensorithm-tarot" target="_blank">HERE</a> IF YOU'RE INTERESTED IN CONTRIBUTING TO THIS PROJECT.
 		</p>
 		<p></p>
-          <p>
+        <p>
             THE TOOL WAS DEVELOPED BY A NON-CODER (THAT'D BE <a href="https://justinckirkwood.net" target="_blank">ME</a>), HELPED ALONG BY CHATGPT AND <a href="https://code.chat/" target="_blank">CODE.CHAT</a>. AS A RESULT, IT'S SOMEWHAT PRIMITIVE. WE HAVEN'T (YET) FIGURED OUT HOW TO CREATE VISUAL SPREADS, BUT YOU CAN USE THE LINEAR LAYOUT IN MANY DIFFERENT WAYS. SOME EXAMPLES:
-          </p>
-		  	<p><img src="images/ascii-card03.png"><br> SINGLE CARD: INSIGHT INTO YOUR CURRENT SITUATION OR QUESTION</p>
-		<p><img src="images/ascii-card03.png"><img src="images/ascii-card03.png"><br>TWO CARDS: PRESENT AND FUTURE OR TWO POTENTIAL PATHS FROM WHICH TO CHOOSE</p>
-			<p><img src="images/ascii-card03.png"><img src="images/ascii-card03.png"><img src="images/ascii-card03.png"><br> THREE CARDS: PAST, PRESENT, AND FUTURE. INSIGHT INTO WHAT LED TO THE PRESENT SITUATION, AND POSSIBLE NEXT STEPS</p>
-				<p><img src="images/ascii-card03.png"><img src="images/ascii-card03.png"><img src="images/ascii-card03.png"><img src="images/ascii-card03.png"><br> FOUR CARDS: PAST, PRESENT, AND TWO POTENTIAL FUTURES. CHOOSE YOUR OWN ADVENTURE</p>
-					<p><img src="images/ascii-card03.png"><img src="images/ascii-card03.png"><img src="images/ascii-card03.png"><img src="images/ascii-card03.png"><img src="images/ascii-card03.png"><br> MODIFIED CELTIC CROSS: PRESENT INFLUENCES, CHALLENGES, GUIDANCE, AND POTENTIAL OUTCOMES</p>
+        </p>
+		<p>
+            <div class="dashed-square"></div>
+        <br> SINGLE CARD: INSIGHT INTO YOUR CURRENT SITUATION OR QUESTION</p>
+		<p>   
+        <div class="dashed-square"></div><div class="dashed-square"></div><br>TWO CARDS: PRESENT AND FUTURE OR TWO POTENTIAL PATHS FROM WHICH TO CHOOSE</p>
+			
+        <p>
+                
+            <div class="dashed-square"></div><div class="dashed-square"></div><div class="dashed-square"></div><br> THREE CARDS: PAST, PRESENT, AND FUTURE. INSIGHT INTO WHAT LED TO THE PRESENT SITUATION, AND POSSIBLE NEXT STEPS</p>
+				<p>
+                    <div class="dashed-square"></div><div class="dashed-square"></div><div class="dashed-square"></div><div class="dashed-square"></div>
+                    <br> FOUR CARDS: PAST, PRESENT, AND TWO POTENTIAL FUTURES. CHOOSE YOUR OWN ADVENTURE</p>
+					<p><div class="dashed-square"></div><div class="dashed-square"></div><div class="dashed-square"></div><div class="dashed-square"></div><div class="dashed-square"></div><br> MODIFIED CELTIC CROSS: PRESENT INFLUENCES, CHALLENGES, GUIDANCE, AND POTENTIAL OUTCOMES</p>
 		<p></p><p>THERE ARE NO WRONG APPROACHES TO THE TAROT AS LONG AS YOUR QUESTION IS CLEAR, AND YOU ARE OPEN TO ACCEPTING THE ANSWERS PRESENTED</a>
+
+      <script src="tensorscript.js"></script>
 
 	      <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-8GL89CTJ7J"></script>
